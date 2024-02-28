@@ -1,0 +1,23 @@
+﻿@page
+@model LiamRamiro.Pages.Provincias.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h3>Geografía española</h3>
+<br />
+<h3>Total de provincias: @Model.provincia.Count()</h3>
+<
+@foreach (var provincia in Model.provincia)
+{
+    <div class="card m-3 border" style="min-width: 18rem; max-width:30%">
+        <div class="card-header text-center">
+            <h3>ID : @provincia.codProvincia</h3>
+            <h3>Nombre : @provincia.nomProvincia</h3>
+            <h3>Superficie: @provincia.superficie</h3>
+            <h3>Habitantes: @provincia.numHabitantes</h3>
+            <h3>Comunidad: @provincia.codComunidad</h3>
+        </div>
+   
+    </div>
+}

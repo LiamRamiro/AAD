@@ -1,0 +1,30 @@
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\bin\Debug\net6.0\Services.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\bin\Debug\net6.0\Modelos.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\bin\Debug\net6.0\Modelos.pdb
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\bin\Debug\net6.0\Services.deps.json
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\bin\Debug\net6.0\Services.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\bin\Debug\net6.0\Services.pdb
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\bin\Debug\net6.0\Modelos.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\bin\Debug\net6.0\Modelos.pdb
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\refint\Services.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\Services.pdb
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Services\obj\Debug\net6.0\ref\Services.dll

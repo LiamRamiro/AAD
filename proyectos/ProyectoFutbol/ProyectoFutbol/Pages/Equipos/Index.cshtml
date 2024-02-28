@@ -1,0 +1,34 @@
+﻿@page
+@model ProyectoFutbol.Pages.Equipos.IndexModel
+@{
+
+}
+
+<h3>Equipos de Futbol</h3>
+<br />
+<h3>Total: @Model.equipos.Count()</h3>
+<form method="get">
+    <div class="form-group">
+        <input asp-for="elementoABuscar" class="control-label"></input>
+        <input type="submit" value="Busca!" class="btn btn-primary" />
+    </div>
+</form>
+
+@foreach(var equipo in Model.equipos)
+{
+    var photo = "~/images/" + (equipo.foto ?? "noimage.jpg");
+    <div class="card m-3 border" style="min-width: 18rem; max-width:30%">
+        <div class="card-header text-center">
+            <h3>@equipo.nomEquipo</h3>
+        </div>
+
+        <img class="card-img-top mx-auto " asp-append-version="true" src="@photo">
+        <div class="card-footer text-center">
+            <a asp-page="/Equipos/Details" asp-route-ID="@equipo.Id" class="btn btn-primary m1">View</a>
+            <a asp-page="/Equipos/Edit" asp-route-ID="@equipo.Id" class="btn btn-primary m1">Edit</a>
+            <a asp-page="/Equipos/Delete" asp-route-ID="@equipo.Id" class="btn btn-danger m-1">Delete</a>
+        </div>
+    </div>
+}
+
+

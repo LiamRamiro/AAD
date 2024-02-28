@@ -1,0 +1,29 @@
+﻿@page
+@model LiamRamiro.Pages.Provincias.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h3>Geografía española</h3>
+<br />
+<h3>Total de provincias: @Model.provincias.Count()</h3>
+<form method="get">
+    <div class="form-group">
+        <input asp-for="elementoABuscar" class="control-label"></input>
+        <input type="submit" value="Busca!" class="btn btn-primary" />
+    </div>
+</form>
+@foreach    (var provincia in Model.provincias)
+{
+    
+	<div class="card m-3 border" style="min-width: 18rem; max-width:30%">
+            <div class="card-header text-center">
+            <h3>@provincia.nomProvincia</h3>
+            </div>
+            <div class="card-footer text-center">
+            <a asp-page="/Provincias/Details" asp-route-ID="@provincia.codProvincia" class="btn btn-primary m1">View</a>
+            <a asp-page="/Provincias/Edit" asp-route-ID="@provincia.codProvincia" class="btn btn-primary m1">Edit</a>
+            <a asp-page="/Provincias/Delete" asp-route-ID="@provincia.codProvincia" class="btn btn-danger m-1">Delete</a>
+            </div>
+    </div>
+}

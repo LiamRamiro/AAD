@@ -1,0 +1,24 @@
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\Users\Jorge Esteban\Documents\GS_DAM\SEGUNDO\ProyectoExamen\Modelos\obj\Debug\net6.0\ref\Modelos.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\bin\Debug\net6.0\Modelos.deps.json
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\bin\Debug\net6.0\Modelos.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\bin\Debug\net6.0\Modelos.pdb
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.csproj.AssemblyReference.cache
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfoInputs.cache
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.AssemblyInfo.cs
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\refint\Modelos.dll
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\Modelos.pdb
+C:\Users\liamr\OneDrive\Escritorio\2ºDAMN\AAD\ProyectoExamen\Modelos\obj\Debug\net6.0\ref\Modelos.dll
